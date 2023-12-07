@@ -6,7 +6,7 @@ import common._
 import scala.util.Random
 import scala.collection.parallel.immutable.ParVector
 
-class Clase1 {
+class AlgoritmoMatriz {
 
   type Matriz = Vector[Vector[Int]]
 
